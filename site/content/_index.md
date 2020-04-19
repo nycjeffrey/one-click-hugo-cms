@@ -1,6 +1,6 @@
 ---
-title: Release the Superhero Coffee
-subtitle: "- - - "
+title: RELEASE THE SUPERHERO INSIDE
+subtitle: ">  > >"
 image: img/lucas-favre-jnoncffwrna-unsplash.jpg
 blurb:
   heading: Why Kaldi?
