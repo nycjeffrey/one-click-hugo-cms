@@ -1,7 +1,7 @@
 ---
 title: Release the Superhero Coffee
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+subtitle: "- - - "
+image: img/lucas-favre-jnoncffwrna-unsplash.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
